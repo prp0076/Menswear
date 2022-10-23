@@ -1,0 +1,61 @@
+.heading {
+  width: 100%;
+  background-color: rgb(24, 39, 68);
+  float: center;
+  color: white;
+  padding-left: 40px;
+  padding: 4px;
+}
+
+.nano {
+  list-style: none;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 30%;
+  background-color: whitesmoke;
+  border-radius: 5%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.containercard {
+  padding: 2px 16px;
+}
+
+.owner {
+  display: flex;
+  flex-direction: row;
+  column-gap: 5.5vh;
+
+
+}
+
+img {
+  border-radius: 5% 5% 1% 1%;
+}
+
+.ownerparent {
+  width: 80%;
+  background-color: rgb(104, 190, 183);
+  margin: 8vh;
+  padding: 2em 4em;
+  padding-left: 16vh;
+}
+
+.ownerparent h1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.containercard h4,
+.containercard p {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
