@@ -9,11 +9,11 @@
 - Competitive pricing
 
 ##Services
-User registration and login
-Product catalog
-Shopping cart
-Order tracking
-Discounts and promotions
+- User registration and login
+- Product catalog
+- Shopping cart
+- Order tracking
+- Discounts and promotions
 
 ##Screenshots
 
