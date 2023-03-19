@@ -1,6 +1,6 @@
 # Menswear
  Men's wear website is an online platform that is designed to cater to the fashion needs of men. It is built using HTML, CSS, and JavaScript, which means it is highly    customizable and user-friendly.
-[Visit Website](https://prp0076.github.io/menwear/)
+[Visit Website](https://prp0076.github.io/Menswear/)
  
 ## Feature
 - 24/7 availability
