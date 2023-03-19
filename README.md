@@ -3,9 +3,8 @@
  
 ##Feature
 - 24/7 availability
-- Fleet of well-equipped ambulances
 - Trained and experienced staff
-- Advanced Customer support equipment 
+- Advanced Customer support 
 - Competitive pricing
 
 ##Services
